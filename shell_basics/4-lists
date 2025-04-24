@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -la .. /boot /root/test-unix /root/test-unix/shell_basics
